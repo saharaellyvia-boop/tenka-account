@@ -1,0 +1,14 @@
+{
+  "name": "TENKA ACCOUNT",
+  "short_name": "TENKA",
+  "description": "Personal finance dashboard TENKA ACCOUNT",
+  "start_url": "./tenka_account.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#090c11",
+  "theme_color": "#090c11",
+  "orientation": "portrait-primary",
+  "icons": [
+    {"src":"icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
